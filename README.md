@@ -26,19 +26,18 @@ I mainly work with **Django REST Framework**, but I’m equally comfortable wear
 ### 💻 Backend
 - Django, Django REST Framework
 - REST APIs, Authentication, Permissions
-- PostgreSQL, SQLite
+- PostgreSQL
 
 ### 🎨 Frontend
 - HTML, CSS, JavaScript
-- Bootstrap, basic React (when needed)
+- Basic React, Nextjs (when needed)
 - API-driven UI development
 
 ### ⚙️ DevOps & Tools
 - Docker & Docker Compose
-- Nginx
-- Linux Servers
 - Git & GitHub
-- CI/CD basics
+- CI/CD
+- AWS
 
 ---
 
@@ -46,7 +45,7 @@ I mainly work with **Django REST Framework**, but I’m equally comfortable wear
 - Advanced DevOps workflows
 - System design & scalability
 - Performance optimization
-- Better frontend architecture
+- Better system architecture
 
 ---
 
